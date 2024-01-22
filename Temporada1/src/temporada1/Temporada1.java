@@ -14,8 +14,7 @@ public class Temporada1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // dios bendiga al lider!
-        //otro commit mas
+
     }
     
 }
